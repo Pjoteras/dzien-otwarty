@@ -46,11 +46,53 @@ div.Sala02 {
 }
 div.obrazek1 {
     flex: 1;
-
+}
+div.obrazek1 > img {
+    max-width: 100%;
+    padding: 20px;
 }
 div.SalaPowitalna {
     flex: 1;
 }
 h3 {
     text-align: center;
+}
+div.Sala103 {
+    display: flex;
+}
+div.obrazek2 {
+    flex: 1;
+}
+div.obrazek2 > img {
+    max-width: 100%;
+    padding: 20px;
+}
+div.ZespolMuzyczny {
+    flex: 1;
+}
+div.Sala106 {
+    display: flex;
+}
+div.WarsztatReklamowy {
+    flex: 1;
+}
+div.obrazek3 {
+    flex: 1;
+}
+div.obrazek3 > img {
+    max-width: 100%;
+    padding: 20px;
+}
+div.Sala02 {
+    display: flex;
+}
+div.obrazek1 {
+    flex: 1;
+}
+div.obrazek1 > img {
+    max-width: 100%;
+    padding: 20px;
+}
+div.SalaPowitalna {
+    flex: 1;
 }
