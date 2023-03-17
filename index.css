@@ -41,3 +41,16 @@ div.sectionContent {
     flex: 1;
     padding: 20px;
 }
+div.Sala02 {
+    display: flex;
+}
+div.obrazek1 {
+    flex: 1;
+
+}
+div.SalaPowitalna {
+    flex: 1;
+}
+h3 {
+    text-align: center;
+}
