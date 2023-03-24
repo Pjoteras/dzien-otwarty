@@ -4,21 +4,31 @@
 body {
     font-family: "Lato", sans-serif;
     color: #03295a;
+    background-image: url(output-onlinepngtools.png); background-attachment: fixed; 
+   
 }
+
+
 h1 {
     text-align: center;
     font-family: "Amatic SC", sans-serif;
     font-size: 4rem;
+    color: rgb(227,6,19);
     margin-bottom: 0;
 }
 div#titleDetails {
     margin-bottom: 2rem;
+    color: rgb(197,0,0);
 }
 h2 {
     text-align: center;
     font-family: "Amatic SC", sans-serif;
     font-size: 2rem;
-
+    color: rgb(0,119,161);
+}
+section {
+    margin-bottom: 3rem;
+    
 }
 div#titleDetails{
     text-align: center;
@@ -35,11 +45,12 @@ div.sectionImage {
 }
 div.sectionImage > img {
     max-width: 100%;
-    padding: 20px;
+    
 }
 div.sectionContent {
     flex: 1;
     padding: 20px;
+    background-color:rgb(247, 240, 149);
 }
 div.Sala02 {
     display: flex;
@@ -49,10 +60,13 @@ div.obrazek1 {
 }
 div.obrazek1 > img {
     max-width: 100%;
-    padding: 20px;
+    
 }
 div.SalaPowitalna {
     flex: 1;
+    background-color:rgb(247, 240, 149);
+    
+    
 }
 h3 {
     text-align: center;
@@ -65,34 +79,150 @@ div.obrazek2 {
 }
 div.obrazek2 > img {
     max-width: 100%;
-    padding: 20px;
+    
 }
 div.ZespolMuzyczny {
     flex: 1;
+    background-color:rgb(247, 240, 149);
 }
 div.Sala106 {
     display: flex;
 }
 div.WarsztatReklamowy {
     flex: 1;
+    background-color:rgb(247, 240, 149);
 }
 div.obrazek3 {
     flex: 1;
 }
 div.obrazek3 > img {
     max-width: 100%;
-    padding: 20px;
+    
 }
-div.Sala02 {
+div.Sala107 {
     display: flex;
 }
-div.obrazek1 {
+div.obrazek4 {
     flex: 1;
 }
-div.obrazek1 > img {
+div.obrazek4 > img {
     max-width: 100%;
-    padding: 20px;
+    
 }
-div.SalaPowitalna {
+div.GoogleVR {
     flex: 1;
+    background-color:rgb(247, 240, 149);
+}
+div.Sala108 {
+    display: flex;
+}
+div.obrazek5 {
+    flex: 1;
+}
+div.obrazek5 > img {
+    max-width: 100%;
+    
+}
+div.SalaWeterynaryjna {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
+}
+div.Sala206 {
+    display: flex;
+}
+div.obrazek6 {
+    flex: 1;
+}
+div.obrazek6 > img {
+    max-width: 100%;
+    
+}
+div.Programisci {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
+}
+div.Sala208 {
+    display: flex;
+}
+div.obrazek7 {
+    flex: 1;
+}
+div.obrazek7 > img {
+    max-width: 100%;
+   
+}
+div.SalaPokazowa {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
+}
+div.Sala301 {
+    display: flex;
+}
+div.obrazek8 {
+    flex: 1;
+}
+div.obrazek8 > img {
+    max-width: 100%;
+    
+}
+div.SalaPokazowa2 {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
+}
+div.Sala306 {
+    display: flex;
+}
+div.obrazek9 {
+    flex: 1;
+}
+div.obrazek9 > img {
+    max-width: 100%;
+    
+}
+div.SalaTurnieju {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
+}
+div.Sala305 {
+    display: flex;
+}
+div.obrazek10 {
+    flex: 1;
+}
+div.obrazek10 > img {
+    max-width: 100%;
+    
+}
+div.SalaFryzjerska {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
+}
+div.Sala506 {
+    display: flex;
+}
+div.obrazek11 {
+    flex: 1;
+}
+div.obrazek11 > img {
+    max-width: 100%;
+    
+}
+div.SalaMontazowa {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
+    size: 80%;
+}
+div.Sala508 {
+    display: flex;
+}
+div.obrazek12 {
+    flex: 1;
+}
+div.obrazek12 > img {
+    max-width: 100%;
+    
+}
+div.SalaReklamy {
+    flex: 1;
+    background-color:rgb(247, 240, 149);
 }
