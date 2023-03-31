@@ -1,0 +1,19 @@
+div#bigPictureContainer {
+    display: flex;
+}
+div#leftArrow,
+div#rightArrow {
+    flex: 1;
+    text-align: center;
+    display: flex;
+}
+div#leftArrow > i,
+div#rightArrow > i {
+    flex: 1;
+}
+div#bigImage {
+    flex: 10;
+}
+div#bigImage > img {
+    max-width: 100%;
+}
